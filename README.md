@@ -34,3 +34,14 @@ Feel free to fork and send pull requests to contribue. You may also report bugs 
 Please note that this project is just starting and is not yet production ready. We cannot yet offer production level support.
 
 Also, please note that this project is being developed primarily for internal use. You may adopt it freely for your own use, but note that it may not work for your use case. We cannot offer support for use cases outside of our intended use.
+
+## Project Status and Roadmap
+
+Repetition is currently in pre-release development, moving towards stage alpha. Below is a breif outline of our short-term roadmap:
+
+ - stage alpha: A fully functional, platform agnostic WebPack configuration and set of NPM scripts for front-end development
+ - stage beta1: Introduction of a CLI tool for creation of REST API routing translation intefracing with the WordPress API
+ - stage beta2: Expansion of CLI tool to interface with Ghost, Joomla, and Drupal
+ - stage beta3: Expansion of CLI tool to allow "none" and "all" options
+ - release 1.0: Stage beta3 is meeting all funciton and performance expectations
+ - Beyond release 1.0: Addition of new backend interfaces, as desired
